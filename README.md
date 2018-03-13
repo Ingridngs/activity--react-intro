@@ -12,3 +12,14 @@
 ## Deliverables
 + A Codepen link to validate the code
 
+## Notes
+
++ How to add `React` and `ReactDOM`
+  + Go to your pen
+  + Click on _Settings_
+  + Click on _JavaScript_ tab
+  + Find **Quick add** option
+  + Select React
+  + Select ReactDOM
+  + Save and Close
+  + You’re ready
